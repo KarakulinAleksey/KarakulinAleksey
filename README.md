@@ -2,11 +2,11 @@
 <h1 align="center">Ребята, всем привет ! Меня зовут<a href="https://mov-exp.karakulin.nomoredomains.work/" target="_blank"> Алексей </a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я начинающий фронтендер</h3>
-<p align="center">- Мне хочеться делать большие и классные проекты.</p>
-<p align="center">- Работать в команде единомышленников которые горят идеей.</p>
+<p align="center">- Мне хочется делать большие и классные проекты.</p>
+<p align="center">- Работать в команде единомышленников, которые горят идеей.</p>
 <p align="center">- Получать удовольствие от своей работы.</p>
-<p align="center">- Учиться новым технологиям и наробатывать опыт.</p>
-<h2 align="center">Интсрументы и технологии которыми я умею пользоваться</h2>
+<p align="center">- Учиться новым технологиям и нарабатывать опыт.</p>
+<h2 align="center">Инструменты и технологии, которыми я умею пользоваться:</h2>
 <div display="inline" align="center">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="32"/>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="32"/>
